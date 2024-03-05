@@ -20,7 +20,7 @@ By achieving these objectives, the project aims to provide game developers, plat
 3. **Pandas**: For data manipulation and analysis.
 4. **Scikit-Learn (sklearn)**: Utilized for machine learning tasks such as model selection, hyperparameter tuning, and evaluation.
 
-**Skills and Techniques**:
+### Skills and Techniques:
 
 1. **Data Collection**: Fetched Steam game reviews using the Steam API, focusing on popular games. Extracted relevant information such as reviews, votes, playtime, and user details.
 2. **Data Preprocessing**: Cleaned and organized the data for analysis. Obtained a DataFrame with columns including review text, user details, voting information, and more.
